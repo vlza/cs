@@ -1,2 +1,3 @@
 print ("hello word");
 print ("hello EVERYBODY");
+мы читали мы писали
